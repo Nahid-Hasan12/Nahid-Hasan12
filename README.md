@@ -1,11 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:dee2e6&height=120&section=header&fontColor=24292f" />
-</div>
-
-# Nahid Hasan
-### Data Analyst · Business Analyst
+<img src="https://capsule-render.vercel.app/api?type=rect&color=24292f&height=6&section=header" /><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f6f8fa&height=140&section=header&text=Nahid%20Hasan&fontSize=48&fontColor=24292f&fontAlignY=55&desc=Data%20Analyst%20%C2%B7%20Business%20Analyst&descSize=16&descAlignY=78&descColor=57606a" />
 
 Bangladesh &nbsp;·&nbsp; [nahidhasan.iu.bd@gmail.com](mailto:nahidhasan.iu.bd@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nahid-hasan-iu)
+
+</div>
 
 ---
 
@@ -62,6 +61,6 @@ End-to-end analysis of bank marketing campaign data — customer segmentation, l
 *Available for data analyst and business analyst roles.*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dee2e6,100:f8f9fa&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f6f8fa&height=80&section=footer&desc=Open%20to%20opportunities%20%E2%80%94%20let%27s%20connect&descSize=13&descAlignY=55&descColor=57606a" /><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=24292f&height=6&section=footer" />
 </div>
-
