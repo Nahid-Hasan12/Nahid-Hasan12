@@ -67,13 +67,5 @@ End-to-end analysis of a bank marketing dataset. Built a lead scoring model to i
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Nahid-Hasan12&show_icons=true&hide_border=true&title_color=24292f&icon_color=24292f&text_color=57606a&bg_color=ffffff&hide_rank=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Hasan12&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff" />
-</p>
-
----
 
 *Available for data analyst, business analyst, and research-focused roles.*
