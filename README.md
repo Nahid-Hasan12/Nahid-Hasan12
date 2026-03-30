@@ -1,51 +1,45 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:dee2e6&height=120&section=header&fontColor=24292f" />
+</div>
+
 # Nahid Hasan
-### Data Analyst | Business Analyst | Economics Researcher
+### Data Analyst · Business Analyst
 
-Bangladesh &nbsp;·&nbsp; [nahidhasan.iu.bd@gmail.com](mailto:nahidhasan.iu.bd@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nahid-hasan-iu) &nbsp;·&nbsp; [bank-marketing-analysis](https://github.com/Nahid-Hasan12/bank-marketing-analysis)
-
----
-
-Economics graduate with research experience at the national level. Worked as a Research Assistant under the **University Grants Commission of Bangladesh**, handling end-to-end data workflows — from survey design and data collection (500+ respondents) to statistical modeling and report writing. Certified in Google Data Analytics. Currently pursuing MSS in Economics while building a portfolio focused on real-world data problems.
+Bangladesh &nbsp;·&nbsp; [nahidhasan.iu.bd@gmail.com](mailto:nahidhasan.iu.bd@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nahid-hasan-iu)
 
 ---
 
-## Technical Skills
+Economics graduate with national-level research experience. Worked as a Research Assistant under the **University Grants Commission of Bangladesh** — managed end-to-end data workflows across 500+ survey respondents, from collection and cleaning to statistical modeling and reporting. Certified in Google Data Analytics. Focused on building a portfolio around real-world data problems.
 
-| Category | Tools & Technologies |
+---
+
+## Skills
+
+| Category | Tools |
 |---|---|
 | Languages | Python, SQL |
-| Data Analysis | Pandas, NumPy, SPSS, EViews |
+| Analysis | Pandas, NumPy, SPSS, EViews |
 | Visualization | Power BI, Tableau, Matplotlib, Excel (Advanced) |
-| Data Collection | KoboToolbox, Survey Design |
-| Methods | Hypothesis Testing, Regression Analysis, Quantitative Research, Financial Modeling |
+| Methods | EDA, Hypothesis Testing, Regression, Segmentation, Lead Scoring |
 
 ---
 
-## Work Experience
+## Experience
 
-**Research Assistant** &nbsp;·&nbsp; University Grants Commission of Bangladesh
-*Nov 2023 – Sep 2024*
+**Research Assistant** &nbsp;·&nbsp; University Grants Commission of Bangladesh &nbsp;·&nbsp; *Nov 2023 – Sep 2024*
 
-- Designed and executed a national survey collecting 500+ responses via KoboToolbox on female mobility and sustainable development
-- Conducted quantitative analysis using Python, SPSS, and EViews — including regression and hypothesis testing
-- Cleaned and visualized datasets in Excel; authored research reports meeting UGC documentation standards
+- Collected 500+ survey responses via KoboToolbox; handled full data cleaning pipeline
+- Ran regression and hypothesis testing using Python, SPSS, and EViews
+- Delivered visualizations and reports in compliance with UGC documentation standards
 
 ---
 
 ## Projects
 
 **[Bank Marketing Analysis](https://github.com/Nahid-Hasan12/bank-marketing-analysis)**
-*Python · Jupyter Notebook · Pandas · Scikit-learn*
+`Python` `Pandas` `Scikit-learn` `Jupyter Notebook`
 
-End-to-end analysis of a bank marketing dataset. Built a lead scoring model to identify high-conversion customers, performed customer segmentation, and developed an interactive dashboard. Covers the full data pipeline: cleaning → EDA → modeling → visualization.
-
----
-
-## Education
-
-**Master of Social Science (MSS)** — Economics &nbsp;·&nbsp; Islamic University, Kushtia &nbsp;·&nbsp; *2024 – 2025* &nbsp;·&nbsp; CGPA 3.23
-
-**Bachelor of Social Science (BSS)** — Economics &nbsp;·&nbsp; Islamic University, Kushtia &nbsp;·&nbsp; *2018 – 2023* &nbsp;·&nbsp; CGPA 3.40
+End-to-end analysis of bank marketing campaign data — customer segmentation, lead scoring model, and interactive dashboard. Full pipeline: data cleaning → EDA → modeling → visualization.
 
 ---
 
@@ -54,18 +48,19 @@ End-to-end analysis of a bank marketing dataset. Built a lead scoring model to i
 - Google Advanced Data Analytics Professional Certificate — *Google / Coursera*
 - Google Data Analytics Professional Certificate — *Google / Coursera*
 - Business Finance and Data Analysis Fundamentals — *Rice University / Coursera*
-- Banking and Financial Institutions — *University of Illinois / Coursera*
 
 ---
 
-## Recognition
+## Education
 
-- **Best Research Paper Presentation** — National Seminar 2024, Khulna University
-  *Topic: Socio-economic Impacts of Climate Change on Artisanal Beel Fishers in Bangladesh*
-- **Outstanding Delegate** (UN Security Council) — HSTU Model United Nations 2022
-- **Champion** — Inter-Session Debate Competition, Economics Club, Islamic University
+**MSS, Economics** &nbsp;·&nbsp; Islamic University, Kushtia &nbsp;·&nbsp; *2024 – 2025* &nbsp;·&nbsp; CGPA 3.23
+
+**BSS, Economics** &nbsp;·&nbsp; Islamic University, Kushtia &nbsp;·&nbsp; *2018 – 2023* &nbsp;·&nbsp; CGPA 3.40
 
 ---
 
+*Available for data analyst and business analyst roles.*
 
-*Available for data analyst, business analyst, and research-focused roles.*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dee2e6,100:f8f9fa&height=100&section=footer" />
+</div>
